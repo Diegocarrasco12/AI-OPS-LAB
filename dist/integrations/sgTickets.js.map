@@ -1,0 +1,1 @@
+{"version":3,"file":"sgTickets.js","sourceRoot":"","sources":["../../src/integrations/sgTickets.ts"],"names":[],"mappings":"AAMA,MAAM,CAAC,KAAK,UAAU,cAAc;IAElC,gDAAgD;IAChD,OAAO;QACL;YACE,EAAE,EAAE,GAAG;YACP,MAAM,EAAE,wBAAwB;YAChC,SAAS,EAAE,MAAM;SAClB;QACD;YACE,EAAE,EAAE,GAAG;YACP,MAAM,EAAE,4BAA4B;YACpC,SAAS,EAAE,OAAO;SACnB;KACF,CAAC;AAEJ,CAAC"}
